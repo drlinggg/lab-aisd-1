@@ -27,5 +27,3 @@
 
 ## I
 ![image](https://github.com/drlinggg/lab-aisd-1/assets/124909828/c654e26a-ba0b-4798-a066-116156c5bc66)
-
-![image](https://github.com/drlinggg/lab-aisd-1/assets/124909828/a6435e46-e43e-47d2-9eb6-88dc3674cb7e)
